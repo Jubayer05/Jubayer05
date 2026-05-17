@@ -54,30 +54,14 @@ I'm a **Full-Stack Developer** from Bangladesh, passionate about building clean,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jubayer05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jubayer05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jubayer05&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
-| Project                                         | Description                                           | Tech                                      |
-| ----------------------------------------------- | ----------------------------------------------------- | ----------------------------------------- |
-| [**Flexora**](https://github.com/Jubayer05)      | GIMP product selling e-commerce website               | Next.js, TypeScript, Tailwind, shadcn/ui |
-| [**MindNest AI**](https://github.com/Jubayer05)  | AI-powered counseling and mental wellness platform    | Next.js, TypeScript, AI Integration       |
-| [**Portfolio**](https://github.com/Jubayer05)    | Personal developer portfolio with glassmorphism       | Next.js, Tailwind, Vercel                 |
+| Project                                         | Description                                        | Tech                                     |
+| ----------------------------------------------- | -------------------------------------------------- | ---------------------------------------- |
+| [**Flexora**](https://github.com/Jubayer05)     | GIMP product selling e-commerce website            | Next.js, TypeScript, Tailwind, shadcn/ui |
+| [**MindNest AI**](https://github.com/Jubayer05) | AI-powered counseling and mental wellness platform | Next.js, TypeScript, AI Integration      |
+| [**Portfolio**](https://jubayer.vercel.app/)    | Personal developer portfolio with glassmorphism    | Next.js, Tailwind, Vercel                |
 
 ---
 
@@ -94,7 +78,7 @@ I'm a **Full-Stack Developer** from Bangladesh, passionate about building clean,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jubayer05)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jubayer05)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://jubayer05.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubayer05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubayer0504@gmail.com)
 
 </div>
 
