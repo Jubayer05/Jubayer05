@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║        Hi there, I'm Jubayer 👋                             ║
+║        Hi, I'm Jubayer 👋                                    ║
 ║        Full-Stack Developer · Builder · Problem Solver       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -19,8 +19,8 @@
 
 I'm a **Full-Stack Developer** from Bangladesh, passionate about building clean, scalable web applications — from pixel-perfect UIs to robust backend APIs.
 
-- 🔭 Currently building **[SkillBridge](https://github.com/Jubayer05)** — a skill-sharing & learning platform, and **LinkX360** — a modern job board platform
-- 🛠️ I love crafting developer tools, automation workflows, and smooth user experiences
+- 🔭 Currently building products that blend utility with great design
+- 🛠️ I love crafting e-commerce platforms, AI-powered applications, and smooth user experiences
 - 🌱 Always learning — currently deep-diving into **AI-assisted development** with Claude Code
 - ⚡ Fun fact: I've automated my entire git push + test workflow with custom slash commands
 
@@ -73,11 +73,11 @@ I'm a **Full-Stack Developer** from Bangladesh, passionate about building clean,
 
 ## 🚀 Featured Projects
 
-| Project                                         | Description                                                        | Tech                                     |
-| ----------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------- |
-| [**SkillBridge**](https://github.com/Jubayer05) | A skill-sharing & learning platform connecting tutors and learners | Next.js, TypeScript, Tailwind, shadcn/ui |
-| [**LinkX360**](https://github.com/Jubayer05)    | A modern job board platform with real-time features                | Next.js, Express, Socket.io, MongoDB     |
-| [**Portfolio**](https://github.com/Jubayer05)   | Personal developer portfolio with glassmorphism aesthetic          | Next.js, Tailwind, Vercel                |
+| Project                                         | Description                                           | Tech                                      |
+| ----------------------------------------------- | ----------------------------------------------------- | ----------------------------------------- |
+| [**Flexora**](https://github.com/Jubayer05)      | GIMP product selling e-commerce website               | Next.js, TypeScript, Tailwind, shadcn/ui |
+| [**MindNest AI**](https://github.com/Jubayer05)  | AI-powered counseling and mental wellness platform    | Next.js, TypeScript, AI Integration       |
+| [**Portfolio**](https://github.com/Jubayer05)    | Personal developer portfolio with glassmorphism       | Next.js, Tailwind, Vercel                 |
 
 ---
 
